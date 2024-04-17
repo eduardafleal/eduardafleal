@@ -1,7 +1,7 @@
 
-👋 Oie, me chamo Eduarda Leal
+👋 Oie! Sou Eduarda Leal.
 
-👀 Estou interessada em explorar novas tecnologias e aprimorar minhas habilidades de programação.
+🎓 Graduanda em Engenharia de Software pela UCSAL e formada pelo Colégio Militar de Salvador;
 
 🌱 Atualmente, estou aprendendo Java, JavaScript, HTML e CSS para expandir meu conhecimento e capacidade técnica.
 
